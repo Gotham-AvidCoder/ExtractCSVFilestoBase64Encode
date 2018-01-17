@@ -1,5 +1,6 @@
-# SAP PI java Mapping with Attachments - 2
-SAP PI Java Mapping - Extract csv files from the mail and attach them to xml file as base64 encoded files
+# Extraction of csv files from Email and creation of xml with csv Files as base64 encoded Strings
+
+Email Client (csv Files) --> SAP PI --> SAP ECC
 
 1.  Read all the .csv file attachments from the incoming email
 2.  Convert the .csv files to base64 encoded Strings
