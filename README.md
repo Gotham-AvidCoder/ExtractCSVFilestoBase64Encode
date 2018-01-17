@@ -1,4 +1,4 @@
-# Extraction of csv files from Email and creation of xml with csv Files as base64 encoded Strings
+# Extraction of csv files from Email and creation of xml with its elements containing those csv Files as base64 encoded Strings
 
 Email Client (csv Files) --> SAP PI --> SAP ECC
 
